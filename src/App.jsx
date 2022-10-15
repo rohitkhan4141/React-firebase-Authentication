@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <h1>React firebase auth</h1>;
+  return <h1>React firebase aut</h1>;
 }
 
 export default App;
